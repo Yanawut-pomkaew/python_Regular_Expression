@@ -1,5 +1,3 @@
-#Yanawut Pomkaew 6309545025
-
 # import ตัว Regular expression เข้ามา
 import re
 current = ''
